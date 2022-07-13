@@ -1,0 +1,85 @@
+body {
+  background: url("photo03.jpg") no-repeat top left,
+  url("photo01.jpg") no-repeat top 0px left 1410px,
+  url("photo04.jpg") no-repeat top 2160px left 0px,
+  url("photo05.jpg") no-repeat top 1080px left 1410px;
+  font-family: 'Gilroy';
+  margin-bottom: 190px;
+}
+
+span {
+  font-style: normal;
+  font-size: 24px;
+  color: #FFFFFF;
+  position: fixed;
+  left: 270px;
+  top: 50px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+h1 {
+  font-style: normal;
+  font-size: 72px;
+  width: 960px;
+  color: #000000;
+  margin-left: 262px;
+  line-height: 81px;
+}
+
+h3 {
+  font-style: normal;
+  font-size: 26px;
+  font-weight: lighter;
+  width: 719px;
+  margin-left: 262px;
+  line-height: 150.3%;
+}
+
+h2 {
+  font-size: 36px;
+  color: #F3833C;
+  margin-left: 262px;
+}
+
+h4 {
+  font-size: 22px;
+  margin-left: 262px;
+  font-weight: lighter;
+  width: 800px;
+  line-height: 150.3%;
+}
+
+button {
+  padding: 10px 40px;
+  gap: 10px;
+  width: 263px;
+  height: 52px;
+  left: 262px;
+  background: #F3833C;
+  border-radius: 20px;
+  border: 0px;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 26px;
+  line-height: 32px;
+  text-align: center;
+  color: #FFFFFF;
+  margin-left: 262px;
+}
+
+button:hover {
+  background: #D85400;
+}
+
+img {
+  margin-left: 262px;
+}
+
+ul {
+  margin-left: 837px;
+  font-size: 22px;
+}
